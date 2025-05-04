@@ -17,6 +17,7 @@ The project uses regression analysis to examine the relationship between positiv
 
 ## Files
 - **Statiscal Analysis**: Regression analysis explaining the relationship between dependant and independant variable.
+- **Tableau file**: Interactive dashboard visualizing COVID-19 data, including key metrics, trends, and hotspot analysis.
 - **Presentation**: A PowerPoint presentation explaining the project, analysis, and insights.
 
 ## Conclusion
